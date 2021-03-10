@@ -7,17 +7,12 @@
 <style>
 	main {
 		position: relative;
-		max-width: 56em;
-		background-color: white;
 		padding: 2em;
 		margin: 0 auto;
 		box-sizing: border-box;
 	}
 </style>
 
-<!-- <Nav {segment}/> -->
-
-
-<main>
+<main class="bg-gray-100 py-6 h-screen">
 	<slot></slot>
 </main>

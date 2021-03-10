@@ -1,0 +1,6 @@
+export { default as UsersTh } from './Th.svelte'
+export { default as UsersTr } from './Tr.svelte'
+export { default as Users } from './Users.svelte'
+export { default as UsersTbody } from './Tbody.svelte'
+export { default as UsersThead } from './Thead.svelte'
+export { default as UsersTd } from './Td.svelte'
